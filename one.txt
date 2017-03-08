@@ -1,1 +1,1 @@
-this is a really long way to Teach us how to squash our git commits, Professor
+this is a really long way to Teach us how to squash our git commits, Professor Couture
